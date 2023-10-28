@@ -2,8 +2,9 @@
                                                                  Likes to develop websites, ride a skateboard and write music
 
                                                                                          Tech Skills
--HTML-
--CSS-
--GIT-
--GITHUB-
--Fl Studio 20-
+                                                                                         -HTML-
+                                                                                         -CSS-
+                                                                                         -GITHUB-
+                                                                                         -FL STUDIO 20-
+                                                                                         
+                                                                                         
